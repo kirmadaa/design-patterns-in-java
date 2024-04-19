@@ -14,7 +14,7 @@
         <junit.maven.surefire.plugin.version>2.19.1</junit.maven.surefire.plugin.version>
         <junit.platform.commons.version>1.7.1</junit.platform.commons.version>
         <junit.platform.surefire.provider.version>1.1.0</junit.platform.surefire.provider.version>
-        <maven.compiler.plugin.version>3.8.1</maven.compiler.plugin.version>
+        <maven.compiler.plugin.version>3.11.1</maven.compiler.plugin.version>
         <mockito.core.version>2.24.0</mockito.core.version>
         <mockito.junit.jupiter.vesion>3.3.0</mockito.junit.jupiter.vesion>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
