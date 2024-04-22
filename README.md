@@ -9,4 +9,3 @@ design-patterns-in-java
 
 Examples of patterns in Java using Gang of Four as example.
 ##
-##
