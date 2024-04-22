@@ -23,7 +23,7 @@
         <junit.maven.surefire.plugin.version>2.22.1</junit.maven.surefire.plugin.version>
         <jacoco.version>0.8.11</jacoco.version>
         <sonar.coverage.jacoco.xmlReportPaths>
-          .target/jacoco.xml
+          ./target/jacoco.xml
         </sonar.coverage.jacoco.xmlReportPaths>
     </properties>
     <build>
